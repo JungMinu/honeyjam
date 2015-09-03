@@ -1,4 +1,6 @@
 # honeyjam
+
+[![Join the chat at https://gitter.im/JungMinu/honeyjam](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/JungMinu/honeyjam?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 꿀잼보따리
 
 ### 아래서부터는 배꼽주의
